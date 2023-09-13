@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Better Exams | Past Papers Made Easy",
-  keywords: "examinations.ie, exams, leaving cert, junior cert, past papers",
+  title: "Better er Exams | Past Papers Made Easy er",
+  keywords: "examinations.ie, exams, leaving cert, junior cert, past papers, no mock papers",
   description: "The best way to search for past leaving cert exam papers and marking schemes sourced from examinations.ie's material archive.",
 };
 
