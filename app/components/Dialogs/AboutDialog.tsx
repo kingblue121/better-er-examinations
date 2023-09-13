@@ -32,12 +32,12 @@ function AboutDialog() {
                                         </p>
                                         <h1 className="font-bold mt-4">Why?</h1>
                                         <p className="indent-5">
-                                            The goal from the get-go was to, firstly, improve upon my web-dev skills, and secondly, to save those precious seconds you spend every day on that hellish site.
+                                            The goal from the get-go was to, firstly, show bence that he copied and pasted this site, and secondly, to prove that he is a monke.
                                         </p>
                                         <h1 className="font-bold mt-4">Who?</h1>
                                         <p className="indent-5">
                                             This website was made by <a href="https://www.mudkip.live" target="_blank" className="underline hover:decoration-2">Bence R</a>
-                                            , with heavy inspiration from Thomas Forbes&apos; &ldquo;<a href="https://examfinder.ie/" target="_blank" className="underline hover:decoration-2">examfinder.ie</a>&ldquo;. Many thanks to him for the advice and for allowing me to use his data.json file.
+                                            , with a quick copy paste from Thomas Forbes&apos; &ldquo;<a href="https://examfinder.ie/" target="_blank" className="underline hover:decoration-2">examfinder.ie</a>&ldquo;. Many thanks to him for the advice and for allowing me to use his data.json file.
                                         </p>
                                         <h1 className="font-bold mt-4"><span className="text-[11px]">w</span>Sources</h1>
                                         <p className="indent-5">
